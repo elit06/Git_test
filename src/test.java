@@ -1,5 +1,5 @@
 public class test {
     public static void main(String[] args) {
-        System.out.println("master branch");
+        System.out.println("test 2 branch");
     }
 }
